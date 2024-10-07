@@ -1,0 +1,10 @@
+obj
+*.pdf
+.vscode
+.DS_Store
+
+# Programas
+/osfs
+
+# Archivos del disco
+*.zip
